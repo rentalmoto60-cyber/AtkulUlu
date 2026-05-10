@@ -1,0 +1,8 @@
+{
+  "name": "atkul-ulu",
+  "version": "1.0.0",
+  "description": "Этно-центр Аткуль-Улу — статический лендинг",
+  "scripts": {
+    "build": "mkdir -p dist && cp index.html dist/ && cp -r img dist/"
+  }
+}
